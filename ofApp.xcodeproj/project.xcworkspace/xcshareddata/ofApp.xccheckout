@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>960EC238-6C3A-4A1E-BEF3-77461E90AE4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9A69C2B-A433-4FD2-8CA6-99DA7DE51EE8</key>
+		<string>ssh://www16220ue.sakura.ne.jp:38888/home/mygit/ofApps.0.8.git/</string>
+		<key>BC921818-DC68-417E-AD25-942676C46552</key>
+		<string>ssh://www16220ue.sakura.ne.jp:38888/home/mygit/ofAddons.0.8.git/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>facetracking/exchangeFaceMovie/ofApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9A69C2B-A433-4FD2-8CA6-99DA7DE51EE8</key>
+		<string>../../../..</string>
+		<key>BC921818-DC68-417E-AD25-942676C46552</key>
+		<string>../../../../../addons</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://www16220ue.sakura.ne.jp:38888/home/mygit/ofApps.0.8.git/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9A69C2B-A433-4FD2-8CA6-99DA7DE51EE8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC921818-DC68-417E-AD25-942676C46552</string>
+			<key>IDESourceControlWCCName</key>
+			<string>addons</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9A69C2B-A433-4FD2-8CA6-99DA7DE51EE8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>apps</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+# hidden/temp files
+.DS_Store
+*.swp
+*~.nib
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.mpeg
+*.MPEG
+*.mp3
+*.MP3
+*.ogg
+*.OGG
+*.wav
+*.WAV
+
+*.app
+
+*.psd
+*.PSD
+*.ai
+*.AI
+
+# Build dir
+build/
